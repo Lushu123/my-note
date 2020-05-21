@@ -1,0 +1,5 @@
+- git init
+- git add .
+- git commit -m "提交说明"
+- git remote add origin git仓库地址
+- git push -u origin master
